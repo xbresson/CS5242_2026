@@ -8,3 +8,5 @@
 *.pt
 data/
 .vscode/
+**/not_used
+

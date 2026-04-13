@@ -28,5 +28,6 @@ dependencies:
   - torchvision=0.16 # CV 
   - pip: # critical : a double indentation is required to install pip packages below !
     - gym==0.26 # RL
+    - "gymnasium[classic_control]"
 
 
